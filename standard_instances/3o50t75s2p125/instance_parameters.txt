@@ -1,0 +1,2 @@
+meters_per_minute	pickup service minutes	dropoff service minutes	target click-to-door	pay per order	guaranteed pay per hour
+212	4	4	30	10	15
